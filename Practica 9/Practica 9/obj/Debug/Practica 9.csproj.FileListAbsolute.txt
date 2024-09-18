@@ -1,0 +1,10 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\bin\Debug\Practica 9.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\bin\Debug\Practica 9.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\bin\Debug\Practica 9.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica 9.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica_9.Form1.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica_9.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica 9.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica 9.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica 9.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 9\Practica 9\obj\Debug\Practica 9.pdb

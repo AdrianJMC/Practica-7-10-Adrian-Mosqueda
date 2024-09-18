@@ -1,0 +1,10 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\bin\Debug\Practica 8.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\bin\Debug\Practica 8.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\bin\Debug\Practica 8.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica_8.btnCheckMagicSquare.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica_8.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica 8.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 8\Practica 8\obj\Debug\Practica 8.pdb
